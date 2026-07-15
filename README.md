@@ -17,7 +17,7 @@ The following TDA backends are required:
 - **DIPHA**: Persistent homology computation
 - **Perseus**: Persistent homology computation
 - **Hera Wasserstein Distance**: Persistence diagram distance computation
-
+**Can Download the three libaries and tda-tooltik at" https://drive.google.com/drive/folders/1ZbffEmAmvwCP9cFeBEV91PDyMn4AZZYP
 ---
 
 # 1.1 Python Dependencies
