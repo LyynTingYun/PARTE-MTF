@@ -12,7 +12,7 @@ The pipeline integrates:
 - **Persistent homology computation**
 - **Persistence diagram generation**
 - **Topological feature extraction**
-- 
+
 The persistent homology computation is implemented through **PersHomBox**, which serves as an interface to several external TDA backends:
 - DIPHA
 - Perseus
