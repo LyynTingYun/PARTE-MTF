@@ -314,7 +314,7 @@ If an error occurs, check:
 
 - Whether all backend executables exist
 - Whether executable permissions are correctly assigned
-- Whether the paths in `pershombox.cfg` are correct
+- Whether the paths in `cfg` are correct
 - Whether PersHomBox is correctly added to the Python path
 
 ---
