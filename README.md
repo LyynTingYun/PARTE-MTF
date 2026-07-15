@@ -224,10 +224,10 @@ chmod +x /your_directory_name/hera/build/wasserstein/wasserstein_dist
 
 PersHomBox requires a configuration file specifying the locations of all external TDA backends.
 
-Create:
+In:
 
 ```
-pershombox.cfg
+../tda-toolkit/pershombox/_software_backends/software_backends.cfg
 ```
 
 with the following content:
