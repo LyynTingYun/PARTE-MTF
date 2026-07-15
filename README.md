@@ -8,8 +8,7 @@ This part provides a Topological Data Analysis (TDA) pipeline for extracting top
 The pipeline integrates:
 - **Time-series windowing**
 - **Takens delay embedding**
-- **Vietoris-Rips filtration**
-- **Persistent homology computation**
+- **Top-Bottom filtration**
 - **Persistence diagram generation**
 - **Topological feature extraction**
 
@@ -28,13 +27,7 @@ Raw Time-Series Data
 Sliding Window Sampling
           |
           v
-Takens Embedding
-          |
-          v
-Point Cloud Representation
-          |
-          v
-Vietoris-Rips Filtration
+Top-Bottom Filtration
           |
           v
 Persistent Homology
@@ -109,7 +102,7 @@ PersHomBox
 should be placed at:
 
 ```
-/root/project12/tda-toolkit
+your_directory_name/tda-toolkit
 ```
 ---
 
