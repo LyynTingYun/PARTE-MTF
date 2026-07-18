@@ -10,19 +10,6 @@ data_dict = {
     'ETTm1': Dataset_ETT_minute,
     'ETTm2': Dataset_ETT_minute,
     'weather': Dataset_Custom,
-    'Electricity': Dataset_Custom,
-    'Exchange' : Dataset_Custom,
-    'ILI': Dataset_Custom,
-    'c46207':Dataset_Custom,
-    'c46131':Dataset_Custom,
-    'c46132':Dataset_Custom,
-    'c46036':Dataset_Custom,
-    'c46204':Dataset_Custom,
-    'c46205':Dataset_Custom,
-    'c46206':Dataset_Custom,
-    'c46134':Dataset_Custom,
-    'c46146':Dataset_Custom,
-    'c46145':Dataset_Custom,
 }
     
 def data_provider(args, flag):
