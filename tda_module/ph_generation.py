@@ -2,7 +2,7 @@ import sys
 import numpy as np
 import torch
 
-sys.path.append('/root/project12/tda-toolkit')
+sys.path.append('tda-toolkit')
 
 from collections import defaultdict
 
